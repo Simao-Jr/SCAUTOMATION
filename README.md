@@ -26,8 +26,8 @@ This repository is the home of a **sanitized, independent demonstration portfoli
 
 | Demonstration | Scope | Status |
 | --- | --- | --- |
-| Industrial production database | Synthetic production records, SQL schema and analytical queries | Planned |
-| Industrial monitoring API | REST endpoints backed by a sample database | Planned |
+| [Industrial production database](examples/industrial-mysql/) | Synthetic production records, SQL schema and analytical queries | Example published |
+| [Industrial telemetry API](examples/industrial-js/) | Dependency-free Node.js API with synthetic telemetry and tests | Example published |
 | Web monitoring dashboard | Responsive UI using synthetic machine telemetry | Planned |
 | IIoT integration example | Simulated equipment messages and event processing | Planned |
 

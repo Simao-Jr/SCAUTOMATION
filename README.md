@@ -1,6 +1,6 @@
 # SC Automation | Industrial Software & IIoT Portfolio
 
-**Simão Uhlmann Junior**  
+**Simão U Junior**  
 Electrical Engineer · Industrial Automation & Software Development  
 Brazil · Open to international remote opportunities
 

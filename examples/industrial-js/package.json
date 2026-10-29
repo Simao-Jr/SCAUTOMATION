@@ -1,0 +1,11 @@
+{
+  "name": "industrial-telemetry-demo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Dependency-free synthetic industrial telemetry HTTP API",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  },
+  "engines": { "node": ">=20" }
+}

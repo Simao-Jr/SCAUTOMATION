@@ -4,7 +4,7 @@
 Electrical Engineer · Industrial Automation & Software Development  
 Brazil · Open to international remote opportunities
 
-[LinkedIn](https://www.linkedin.com/in/sim%C3%A3o-uhlmann-jr19) · [GitHub](https://github.com/Simao-Jr) · Contact: simaouhl@gmail.com
+[LinkedIn](https://www.linkedin.com/in/sim%C3%A3o-uhlmann-jr19) · [GitHub](https://github.com/Simao-Jr)
 
 ## About
 
